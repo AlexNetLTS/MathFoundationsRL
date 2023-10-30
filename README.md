@@ -41,11 +41,11 @@ graph LR
 
 ## 更新目录：
 
-- [x]   <font color="yellow">第一章：强化学习的基本概念</font>
-- [x]   <font color="yellow">第二章：贝尔曼公式</font>
-- [x]   <font color="yellow">第三章：贝尔曼最优公式</font>
-- [x]   <font color="yellow">第四章：值迭代和策略迭代</font>
-- [x]   <font color="yellow">第五章：蒙特卡洛方法</font>
+- [x]   <第一章：强化学习的基本概念>
+- [x]   <第二章：贝尔曼公式>
+- [x]   <第三章：贝尔曼最优公式>
+- [x]   <第四章：值迭代和策略迭代>
+- [x]   <第五章：蒙特卡洛方法>
 - [ ]   第六章：随机近似
 - [ ]   第七章：时序差分法
 - [ ]   第八章：值函数近似
