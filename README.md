@@ -1,5 +1,7 @@
 # 《强化学习的数学原理》翻译笔记
 
+![map](all.drawio.svg)
+
 ```mermaid
 graph LR
     A(第一章)
